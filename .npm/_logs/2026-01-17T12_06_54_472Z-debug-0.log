@@ -1,0 +1,48 @@
+0 verbose cli /srv/conda/envs/notebook/bin/node /srv/conda/envs/notebook/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.5
+3 silly config load:file:/srv/conda/envs/notebook/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/tmplu3av1un/.npmrc
+5 silly config load:file:/home/jovyan/.npmrc
+6 silly config load:file:/srv/npm/npmrc
+7 verbose title npm pack @jupyterlab/plotly-extension
+8 verbose argv "pack" "@jupyterlab/plotly-extension"
+9 verbose logfile logs-max:10 dir:/home/jovyan/.npm/_logs/2026-01-17T12_06_54_472Z-
+10 verbose logfile /home/jovyan/.npm/_logs/2026-01-17T12_06_54_472Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/npm 178ms
+13 http fetch GET 200 https://registry.npmjs.org/@jupyterlab%2fplotly-extension 504ms (cache miss)
+14 http fetch GET 200 https://registry.npmjs.org/@jupyterlab%2fplotly-extension 11ms (cache hit)
+15 silly tarball no local data for https://registry.npmjs.org/@jupyterlab/plotly-extension/-/plotly-extension-1.0.0.tgz. Extracting by manifest.
+16 http fetch GET 200 https://registry.npmjs.org/@jupyterlab/plotly-extension/-/plotly-extension-1.0.0.tgz 236ms (cache miss)
+17 notice
+18 notice 📦  @jupyterlab/plotly-extension@1.0.0
+19 notice Tarball Contents
+20 notice 1.5kB LICENSE
+20 notice 2.4kB README.md
+20 notice 1.3kB lib/index.d.ts
+20 notice 3.7kB lib/index.js
+20 notice 1.2kB package.json
+20 notice 546B style/index.css
+20 notice 1.7kB style/plotly.svg
+21 notice Tarball Details
+22 notice name: @jupyterlab/plotly-extension
+23 notice version: 1.0.0
+24 notice filename: jupyterlab-plotly-extension-1.0.0.tgz
+25 notice package size: 4.7 kB
+26 notice unpacked size: 12.4 kB
+27 notice shasum: a12b58cc231ad11bb268ba96843305e713c5b2d6
+28 notice integrity: sha512-cebOknl1cAR8Y[...]FAtUqBRUVTbrg==
+29 notice total files: 7
+30 notice
+31 verbose cwd /tmp/tmplu3av1un
+32 verbose os Linux 6.8.0-86-generic
+33 verbose node v20.19.5
+34 verbose npm  v10.8.2
+35 notice
+35 notice New major version of npm available! 10.8.2 -> 11.7.0
+35 notice Changelog: https://github.com/npm/cli/releases/tag/v11.7.0
+35 notice To update run: npm install -g npm@11.7.0
+35 notice  { force: true, [Symbol(proc-log.meta)]: true }
+36 verbose exit 0
+37 info ok

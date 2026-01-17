@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/ethan-kaka-chisel-bootcamp-80s3gk96/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "ghx378vJRTeNfjQZc8L15A",
+  "url": "http://jupyter-ethan-kaka-chisel-bootcamp-80s3gk96:8888/user/ethan-kaka-chisel-bootcamp-80s3gk96/",
+  "version": "2.17.0"
+}
